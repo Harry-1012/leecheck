@@ -1,1 +1,10 @@
-[![leecheck's github stats](https://github-readme-stats.vercel.app/api?username=leecheck)](https://github.com/leecheck/github-readme-stats)
+#                 .-~~~~~~~~~-._       _.-~~~~~~~~~-.
+#             __.'              ~.   .~              `.__
+#           .'//                  \./                  \\`.
+#         .'//                     |                     \\`.
+#       .'// .-~"""""""~~~~-._     |     _,-~~~~"""""""~-. \\`.
+#     .'//.-"                 `-.  |  .-'                 "-.\\`.
+#   .'//______.============-..   \ | /   ..-============.______\\`.
+# .'______________________________\|/______________________________`.
+  
+[![leecheck's github stats](https://github-readme-stats.vercel.app/api?username=leecheck)]
